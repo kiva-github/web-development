@@ -1,0 +1,9 @@
+What I found easy from the resources was utilizing different attributes to style specific
+elements. I enjoyed working through the exercises and seeing how each change affected the
+element in a particular manner. What I found challenging was remembering all of the CSS
+attributes, such as the differences between padding, margin, and border settings for the
+box elements and the different types of positioning (fixed, absolute, relative, etc.). An
+"aha" moment I had was fully understanding the difference between styling in the <style>
+tag as opposed to the style attribute or an external CSS styling sheet. Something I learned
+that could come in useful for my own website is box-sizing and spacing, because I imagine
+I'll be using a lot of divs and I will have to space them appropriately.
